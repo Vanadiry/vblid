@@ -1,0 +1,6 @@
+# Project
+.vscode/
+TODO*.md
+
+# macOS Shit
+.DS_Store
